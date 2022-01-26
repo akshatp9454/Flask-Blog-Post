@@ -1,0 +1,20 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/codingthunder",
+        "prod_uri":"mysql://root:@localhost/codingthunder",
+        "fb_url":"https://facebook.com/codingthunder",
+        "tw_url":"https://twitter.com/codingthunder",
+        "gh_url":"https://github.com/codingthunder",
+        "blog_name":"Coding Thunder",
+        "gmail-user":"shivamv9454@gmail.com",
+        "gmail-password":"up25ah9454",
+        "about_text":"Hi my anme is Akshat and I am learning Flask.",
+        "no_of_posts": 2,
+        "login_image": "login.svg",
+        "admin_user":"akshat",
+        "admin_password":"pass123",
+        "upload_location":"C:\\Users\\AKSHAT\\Desktop\\Flask\\static"
+    }
+}
